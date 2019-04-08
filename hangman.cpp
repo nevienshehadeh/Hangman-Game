@@ -1,8 +1,4 @@
-/*CISC 1600 FALL 2018
-*Nevien Shehadeh
-* Final Project
-* The Game of Hangman: You give the player 8 chances to guess a word. You must decide how to represent the secret word to the player. Allow the user to enter a letter, if the letter is in the secret word, tell the player and reveal all instanses of that letter in the secret word. If the letter is not in the word, tell the player and subtract 1 from the players 8 chances. 
-*/
+
 #include <iostream>
 #include <cstdlib> //for srand()
 #include <ctime>   //for time()
